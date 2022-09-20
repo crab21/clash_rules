@@ -1,3 +1,4 @@
 payload:
   - 'blog.imrcrab.com'
   - '+.imrcrab.com'
+  - 'www.baidu.com'
