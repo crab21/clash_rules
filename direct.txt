@@ -4,3 +4,6 @@ payload:
   - 'www.baidu.com'
   - 'xiaomi.com'
   - 'miui.com'
+  - 'mi.com'
+  - 'iot.mi.com'
+  - 'tracking.miui.com'
