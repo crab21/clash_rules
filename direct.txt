@@ -2,3 +2,5 @@ payload:
   - 'blog.imrcrab.com'
   - '+.imrcrab.com'
   - 'www.baidu.com'
+  - 'xiaomi.com'
+  - 'miui.com'
