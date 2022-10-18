@@ -1,3 +1,5 @@
 payload:
   - 'google.com'
   - 'jetbrains.com'
+  - 'googleapis.com'
+  - 'dmit.io'
