@@ -7,3 +7,7 @@ payload:
   - 'mi.com'
   - 'iot.mi.com'
   - 'tracking.miui.com'
+  - 'business.smartcamera.api.io.mi.com'
+  - '+.business.smartcamera.api.io.mi.com'
+  - '+.api.io.mi.com'
+  - 'api.io.mi.com'
