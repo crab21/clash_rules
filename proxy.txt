@@ -3,3 +3,4 @@ payload:
   - 'jetbrains.com'
   - 'googleapis.com'
   - 'dmit.io'
+  - 'www.dmit.io'
