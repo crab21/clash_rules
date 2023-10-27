@@ -4,3 +4,11 @@ DOMAIN-KEYWORD,openai.com
 DOMAIN-KEYWORD,ai.com
 DOMAIN-KEYWORD,challenges.cloudflare.com
 DOMAIN-KEYWORD,cdn.openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,bard.google.com
