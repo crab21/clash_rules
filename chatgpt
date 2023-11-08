@@ -27,3 +27,5 @@ payload:
   - '+.arkoselabs.com'
   - '+.openaiapi-site.azureedge.net'
   - '+.bard.google.com'
+  - 'cdn.oaistatic.com'
+  - '+.cdn.oaistatic.com'
